@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kingis Maiesteis proclamatioun togidder with certaine actis of Parliament maid anent the aduersaris of Christis euangell.</title>
+            <author>Scotland. Sovereign (1567-1625 : James VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1580</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73121</idno>
+            <idno type="STC">STC 21947</idno>
+            <idno type="STC">ESTC S5205</idno>
+            <idno type="EEBO-CITATION">39960663</idno>
+            <idno type="OCLC">ocm 39960663</idno>
+            <idno type="VID">150431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1951:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kingis Maiesteis proclamatioun togidder with certaine actis of Parliament maid anent the aduersaris of Christis euangell.</title>
+                  <author>Scotland. Sovereign (1567-1625 : James VI)</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>be Iohne Ros,</publisher>
+                  <pubPlace>Imprentit at Edinburgh :</pubPlace>
+                  <date>Anno Do. 1580.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint form colophon.</note>
+                  <note>First leaf blank except for signature "A.j."</note>
+                  <note>Signatures: A⁴, B³ (i.e. B⁴ [last leaf blank?]).</note>
+                  <note>"Cum priuilegio Regeia."</note>
+                  <note>Reproduction of original in: Lambeth Palace Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Scotland --  16th century.</term>
+               <term>Scotland --  Church history --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:150431:1"/>
+            <pb facs="tcp:150431:1" rendition="simple:additions"/>
+            <pb facs="tcp:150431:2"/>
+            <pb facs="tcp:150431:2"/>
+            <head>The Kingis Maie<g ref="char:EOLhyphen"/>steis <hi>Proclamatioun togidder with</hi> certane Actis of Parliament maid anent the aduerſaris of Chriſtis Euangell.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">I</seg>AMES</hi> be the grace of God king of Scottis</signed>
+               <salute>to our lo<g ref="char:EOLhyphen"/>uittis Meſſengeris our Schireffis in that part coniunctlie and ſeuerallie, ſpeciallie conſtitute greting.</salute>
+            </opener>
+            <p>Forſamekill as it is humblie menit and ſchawin to vs be our weilbelouittis the Miniſteris of Goddis word, &amp; vtheris the profeſſouris of Chri<g ref="char:EOLhyphen"/>ſtis Euangel within our Realme. That quhair it is not vnknawin to vs and Lordis of our ſecreit counſall, quhat horribil Murtheris and crueltie hes bene execute thir diuers ȝeiris by gane in ſin<g ref="char:EOLhyphen"/>drie partis of Europe againis the profeſſouris of the trew Religioun, following the executioun of the decreis of the bludie counſall of Trent. And not onelie is the Intentioun of the ſaid crueltie and perſecutioun contine wit and put in executi<g ref="char:EOLhyphen"/>oun at all occaſiounis of aduantage, bot mony greit and ſubtill practiſis proponit and laid out to foſter and interteny diuiſioun amangis the Prin<g ref="char:EOLhyphen"/>ces, Eſtaitis, and pepill profeſſing the trew and Chriſtiane Religioun: To mak thame thairby the mair eſie pray to thair coniurit Enemeis: As al<g ref="char:EOLhyphen"/>ſwa to draw and alure the ȝouth of this our <pb facs="tcp:150431:3"/>Realme, and ſpecially ſic as trauellis beȝond ſey for the knawledge of gude letteris, fra the profeſ<g ref="char:EOLhyphen"/>ſioun of Goddis treuth to errour and papiſtrie. Thair is of lait (as wald appeir) in thair fauour erectit at Paris be the procurement of certane Papiſtis declairit tratouris and fugitiues of our Realme, a Collegecallit Seminarium, with offer of Interteniment &amp; teiching of ſic Scottis Scol<g ref="char:EOLhyphen"/>leris as can be allurit to repair thither. And be thair vpbringing thair in fals and corruptit do<g ref="char:EOLhyphen"/>ctrine, It is Intendit that the cours of the trew Religioun in this our Realme ſalbe impugnit, re<g ref="char:EOLhyphen"/>ſiſtit, and ſa far as thair deuiſes may vtterly be ſubuertit and brocht in decay gif God of his mer<g ref="char:EOLhyphen"/>cy for his awin Namis ſaik Impeid it not. And gif we quha hes and aucht to haue the cair of the conſeruatioun and purgatioun of the trew Reli<g ref="char:EOLhyphen"/>gioun caus not the malice &amp; practiſis of our awin diſobedient ſubiectis to be tryit, puniſchit, and re<g ref="char:EOLhyphen"/>preſſit, as our awin louabill lawis, ſtatutis and Actis of Parliament maid heiranent hes appoin<g ref="char:EOLhyphen"/>tit. ¶ Our will is heirfoir and we charge ȝow ſtraitly and commandis that incontinent thir our letteris ſeneȝe pas and in our Name and autho<g ref="char:EOLhyphen"/>ritie command and charge all and ſindrie our Schireffis, Stewartis, Baileis, and thair depu<g ref="char:EOLhyphen"/>tis, Proueſtis, Aldermen &amp; Baileis of our Bur<g ref="char:EOLhyphen"/>rowis, Lordis of Regaliteis and thair deputis, and our Officiaris of Armes, Schireffis in that part: To pas, publiſche and proclame of new our Statutis, Lawis, and Actis of Parliament vn<g ref="char:EOLhyphen"/>der writtin at the mercat Croſes of the heid Bur<g ref="char:EOLhyphen"/>ro wis of our Realme, and vtheris places neidful, <pb facs="tcp:150431:3"/>that nane pretend Ignorance of the ſame, Speci<g ref="char:EOLhyphen"/>ally the Actis anent the Meſſe aboliſchit, and pu<g ref="char:EOLhyphen"/>niſcheing of all that heiris or ſayis the ſame. ¶ Anent the trew and haly Kirk, and of thame that ar declairit not to be of the ſame. ¶ Anent thame that ſuld beir publict Office heirefter. ¶ That the aduerſaris of Chriſtis Euangell ſall not enioy the Patrimony of the Kirk. ¶ Anent the ȝouth &amp; vtheris beȝond ſey ſuſpectit to haue declynit fra the trew Religioun. And for the bet<g ref="char:EOLhyphen"/>ter executioun of the ſaidis Actis, That ȝe charge all and ſindrie Superintendentis, and Commiſ<g ref="char:EOLhyphen"/>ſionaris of the Kirkis, that they be thame ſelfis thair miniſteris and Reidaris ſeruing at the Kir<g ref="char:EOLhyphen"/>kis within thair charges reſpectiue, with all dili<g ref="char:EOLhyphen"/>gence efter thay be chargit thairto: Note the the names of the perſounis our ſubiectis, aſwell men as wemen ſuſpectit to be Papiſtis, or that hes not communicat with the Sacramentis, as thay ar now trewly miniſtrat in the reformit Kirkis of this our Realme, outher being within our realme or outwith the ſame. And with the like diligence lauchfully admoniſche thame according to the or<g ref="char:EOLhyphen"/>dour of the Kirk, to recant thair Papiſticall Er<g ref="char:EOLhyphen"/>rouris, giue y<hi rend="sup">e</hi> confeſſioun of thair faith according to the forme approuit be our Parliament, be par<g ref="char:EOLhyphen"/>ticipant with y<hi rend="sup">e</hi> Sacramentis, and ſubmit thame ſelfis to the Diſcipline of the trew Kirk within certane reſſonabill ſpace, vnder the pane of Ex<g ref="char:EOLhyphen"/>communicatioun, &amp; gif thay fallȝe, to pronounce y<hi rend="sup">e</hi> ſentence of Excommunicatioun againis thame. And in caſe of continuance or non comperance of ony perſounis ſwa admoniſchit nor compeirand <pb facs="tcp:150431:4"/>gif thay refuſe to obey the admonitioun, Or quha hes or ſall returne to thair Errouris efter thair confeſſioun anis geuin. That euery lauchfull Superintendent or Commiſſionar preſent ane Roll &amp; Catholog of the Names of the Diſobedien<g ref="char:EOLhyphen"/>tis obſtinat or relaps perſounis to vs &amp; Lordis of our ſecreit Counſal, quhair we ſall happin to be for y<hi rend="sup">e</hi> tyme, betuix &amp; the xv. day of Iulii nixtocum, to the effect contenit in our Act of Parliament maid thairvpon, efter the former &amp; tennour thair<g ref="char:EOLhyphen"/>of, and vnder the panis contenit in the ſame, as ȝe will anſwer to vs thairuppon. The quhilk to do we commit to ȝow coniunctly and ſeuerally our full power. Be thir our letteris deliuering y<hi rend="sup">e</hi> ſame be ȝow dewly execute and Indorſat agane to the beirar.</p>
+            <closer>
+               <dateline>Geuin vnder our ſignet at our Caſtell of Striuiling
+<date>the ix. day of April, and of our Reigne the xiii. geir. <hi>1580.</hi>
+                  </date> Ex deliberatione Dominorum Secreti Conſilii.</dateline>
+            </closer>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:150431:4"/>
+            <head>Anent the Meſſe <hi>a<g ref="char:EOLhyphen"/>boliſchit, and puniſcheing of all</hi> that heiris or ſayis the ſame. CAP. V.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>TEM</hi> our Souerane Lord, with auiſe of his derreſt Regent, and thre Eſtaitis of this preſent Parliame<g ref="char:cmbAbbrStroke">̄</g>t, ratifeis and appreuis the Act vnder writtin, maid in the Parliament haldin at Edinburgh the xxiii. day of Auguſt, the ȝeir of God <hi>1560.</hi> ȝeiris, and of new in this pre<g ref="char:EOLhyphen"/>ſent Parliament ſtatutis &amp; ordanis the ſaid Act to be as ane perpetual Law to all our Souerane Lordis liegis in all tymes cumming, of the quhilk the tennour followis. &amp; The quhilk day for<g ref="char:EOLhyphen"/>ſamekill as Almichty God be his maiſt trew and bliſſit word hes declairit the reuerence and ho<g ref="char:EOLhyphen"/>nour quhilk ſuld be geuin vnto him, and be his Sone Ieſus Chriſt hes declairit the trew vſe of the Sacramentis, willing the ſame to be vſit ac<g ref="char:EOLhyphen"/>cording to his will and word. Be quhilk it is no<g ref="char:EOLhyphen"/>tour and perfytely knawin, that the Sacramen<g ref="char:EOLhyphen"/>tis of Baptiſme, and of the body and blude of Ie<g ref="char:EOLhyphen"/>ſus Chriſt hes bene in all tymes by paſt corruptit be the Papiſticall Kirk, and be thair vſurpit Mi<g ref="char:EOLhyphen"/>niſteris. And preſently notwithſtanding the re<g ref="char:EOLhyphen"/>formatioun alreddy maid according to Goddis word, ȝit thair is ſum of the ſaid Papis Kirk that ſtubburnely perſeueiris in thair wickit idolatrie, ſayand Meſſe, Baptiſand conforme to the Papis <pb facs="tcp:150431:5"/>Kirk, prophan and thairthrow the Sacramentis foirſaidis, in quyet and ſecreit places, thairthrow nouther regard and God nor his word.</p>
+            <p>¶ Thairfoir it is ſtatute and ordanit in this preſent Parliament, that na maner of perſoun or perſonnis in ony time cumming adminiſtrat ony of the ſaid Sacramentis foirſaidis ſecretly, or buy other maner of way, bot thay that ar admit<g ref="char:EOLhyphen"/>tit, and hauand power to that effect. And that na maner of perſoun or perſounis ſay Meſſe, or ȝit heir Meſſe, nor be preſent thairat, vnder the pane of confiſcatioun of al thair gudis mouabill &amp; vn<g ref="char:EOLhyphen"/>mouabill, puniſcheing of thair bodyis at the diſ<g ref="char:EOLhyphen"/>cretioun of the Magiſtrat, within quhais Iuriſ<g ref="char:EOLhyphen"/>dictioun ſic perſounis happinis to be apprehen<g ref="char:EOLhyphen"/>dit for the firſt fault: baniſching of the Realme for the ſecund fault: and Iuſtifiyng to the deith for the third fault. And ordanis all Schi<g ref="char:EOLhyphen"/>reffis, Stewartis, Bailleis, and thair depu<g ref="char:EOLhyphen"/>tis, Proueſtis and Bailleis of Burrowis, and vtheris Iudges quhatſumeuer within this Realme, to tak diligent ſute and inquiſitioun within thair boundis quhair ony ſic vſurpit Mi<g ref="char:EOLhyphen"/>niſterie is vſit, Meſſe ſaying, or thay that beis pre<g ref="char:EOLhyphen"/>ſent at the doing thairof, ratifyand and appre<g ref="char:EOLhyphen"/>uand the ſamin, tak and apprehend thame, to the effect that the panis aboue writtin may be execute vpon thame. And thairfoir of new decernis and ordanis the conrrauenaris of the ſamin in ony time heirefter to be puneiſt, according to the paines of the foirſaid Act aboue reheirſit.</p>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:150431:5"/>
+            <head>Anent the trew and haly Kirk, and of thame that ar declairit not to be of the ſamin. CAP. vi.</head>
+            <p>
+               <hi>OVR</hi> Souerane Lord with auiſe &amp; conſent of his thre Eſtaitis, &amp; haill body of this preſent Par<g ref="char:EOLhyphen"/>liament, ratifeis and approuis al and quhatſume<g ref="char:EOLhyphen"/>uer Actis &amp; ſtatutis maid of befoir be his hienes, with auiſe of his Regentis in his awin Reigne, or his Predeceſſouris, anent the libertie and free<g ref="char:EOLhyphen"/>dome of the trew Kirk of God &amp; Religioun nowe preſently profeſſit within this Realme. And ſpe<g ref="char:EOLhyphen"/>cially ratifeis and appreuis the ſext Act of his hie<g ref="char:EOLhyphen"/>nes Parliament, hald in the firth ȝeir of his maie<g ref="char:EOLhyphen"/>ſteis Reigne, Intitulat anent the trew and haly Kirk, and of thame that ar declairit not to be of the ſamin. Ordaning the ſamin to be heir Inſert of new (becaus of ſum defectioun and Informa<g ref="char:EOLhyphen"/>litie of wordis in default of the Prentar) in this forme. ¶
+<hi>OVR</hi> Souerane Lord with auiſe of his thre Eſtaitis, and haill body of this proſent Parliament, hes declairit and declaitis the Mi<g ref="char:EOLhyphen"/>niſters of the bliſſit Euangell of Ieſus Chriſt, quhome God of his mercy hes now raiſit vp a<g ref="char:EOLhyphen"/>mangis vs, or heirefter ſall tais, aggroing with them that now leuis in doctrine and adminiſtra<g ref="char:EOLhyphen"/>tioun of the Sacramentis, and the pepill of the Realme that profeſſis Chriſt as he is now offe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it in his Euangell, and dois communicat with the haly Sacramentis (as in the reformit Kirkis of this Realme ar publictly adminiſtrat) according to the confeſſioun of the faith, to be the trew and haly Kirk of Ieſus Chriſt withut this Realme, &amp;
+<pb facs="tcp:150431:6"/>decernis &amp; declairis that all &amp; ſindry quha outher gainſayis the word of the Euangell reſſaiuit and appreuit, As the heidis of the confeſſioun of the faith profeſſit in Parliament of befoir in the ȝeir of God <hi>1560.</hi> ȝeiris, as alſwa ſpecifyit and regi<g ref="char:EOLhyphen"/>ſtrat in the Actis of Parliament maid in the firſt ȝeir of his hienes Reigne mair particularly dois expres ratifyit alſwa and appreuit in this preſent Parliament. Or that refuſis the participatioun of the haly Sacramentis as they ar now mini<g ref="char:EOLhyphen"/>ſtrat, To be na me<g ref="char:cmbAbbrStroke">̄</g>beris of the ſaid Kirk within this Realme, and trew Religioun now preſently profeſſit, ſa lang as thay keip thame ſelfis ſa de<g ref="char:EOLhyphen"/>nydit from the ſocietie of Chriſtis body.</p>
+         </div>
+         <div type="Act_of_Parliament">
+            <head>Anent thame that ſuld beir publict office heirefter. CAP. ix.</head>
+            <p>
+               <hi>ITEM,</hi> The Kingis grace with auiſe of my Lord Regent, and thre Eſtaitis of this preſent Parliament, ſtatutis and ordanis that na maner of perſoun nor perſounis be reſſauit in ony times heirefter to heir publict office remouadill of Iudgement within this Realme, bot ſic as profeſ<g ref="char:EOLhyphen"/>ſis the puritie of Religioun, and doctrine now preſently eſtabliſchit. And that name be permitan to procure, nor admittit Notar; or creat ane meni<g ref="char:EOLhyphen"/>ber of Court in any time cumming without he in likewiſe profes the Euangel, and Religioun fore<g ref="char:EOLhyphen"/>ſaid. ¶ Prouyding alwayis that this Act be on na wayis extendit to ony maner of perſoun or perſounis hauand thair Offices heritabilly or in <pb facs="tcp:150431:6"/>liferent, bot that thay may vſe the ſamin co<g ref="char:cmbAbbrStroke">̄</g>forme to thair Infeftmentis, and diſpoſitiounis grantit to thame thairof.</p>
+         </div>
+         <div type="Act_of_Parliament">
+            <head>That the aduerſaris of Chriſtis Euan<g ref="char:EOLhyphen"/>gell ſall not enioy the Patrimonie of the Kirk. CAP. iii.</head>
+            <p>
+               <hi>ITEM,</hi> Foraſmekill as the conſeruatioun and purgatioun of the Religioun cheifly pertenis to the Chriſtiane and godly Kingis, Princis, Rew<g ref="char:EOLhyphen"/>laris and Magiſtratis: and that it is maiſt re<g ref="char:EOLhyphen"/>quiſite, that the Kirk within this Realme beſer<g ref="char:EOLhyphen"/>uit be godly perſounis of ſound Religioun, obedi<g ref="char:EOLhyphen"/>ent to the Authoritie of the Kingis Maieſtie our Souerane Lord. ¶ It is thairfoir concludit; ſtatute, and ordanit be his Maieſtie, with auiſe of his ſaid Regent, thre Eſtaitis; and haill body of this preſent Parliament, That euery perſoun quha ſall pretend to be ane Miniſter of Goddis word and Sacramentis: or quha preſently dois, or ſall pretend to haue, or bruik ony Benefice, vſe of frutes, ſtipend, penſioun, or portioun furth of Benefice, and ar not alreddy vnder the Diſcipline of the trew Kirk, and participatis not with the Sacramentis thairof, ſall in the preſence of the Archibiſchop, Superintendent, or Commiſſionar of the diocie or prouince quhair he hes, or ſall haue the Eccleſiaſticall leuing, giue his aſſent, and ſub<g ref="char:EOLhyphen"/>ſoriue the Articklis of Religioun, contenit in the Actis of our Soucrane Lordis Parliament, and giue his aith for acknawledging &amp; recognoſcing of our Souerane Lord and his Authoritie, and <pb facs="tcp:150431:7"/>ſall bring ane Teſtimoniall in wryting thairup<g ref="char:EOLhyphen"/>on, and oppinly on ſum Sonday in time of Ser<g ref="char:EOLhyphen"/>mon, or publict prayeris in the Kirk, quhair be reſ<g ref="char:EOLhyphen"/>ſoun of his Eccleſiaſticall leuing he aucht to at<g ref="char:EOLhyphen"/>tend, or of the fruites quhair of he reſſauis commo<g ref="char:EOLhyphen"/>ditie, reid baith the Teſtimonial and confeſſioun, and of new mak the ſaid aith within the ſpace of ane moneth efter the publicatioun of this preſent Act, and gif he be furth of the Realme within thre ſcoir dayis efter the publicatioun heirof. And in time cumming within ane moneth efter his ad<g ref="char:EOLhyphen"/>miſſioun, vnder the pane that euery perſoun that ſall not do as is aboue appointit, ſalbe, <hi>ipſo facto,</hi> depryuit, and all his Eccleſiaſticall promotiounis and leuing ſalbe vacand, as gif he war than na<g ref="char:EOLhyphen"/>turally deid. And gif ony perſoun Eccleſiaſticall, or quhilk ſall haue Eccleſiaſticall leuing, ſall wil<g ref="char:EOLhyphen"/>fully mantene ony doctrine direct conttair or re<g ref="char:EOLhyphen"/>pugnant to ony of the ſaidis Articklis: and being conuenit &amp; callit as followis, ſall perſiſt thairin, &amp; not reuoke his errour, or efter his reuocatioun ſall of new affirme ſic vntrew doctrine, ſic mante<g ref="char:EOLhyphen"/>ning, affirming and perſiſting ſalbe iuſt caus to depriue him of his Eccleſiaſtical leuing. And it ſall be lauchfull to thame befoir quhome he is callit &amp; conuenit to depryue him. Quhilk ſentence of de<g ref="char:EOLhyphen"/>priuatioun pronouncit, he ſalbe depryruit in deid, and his leuing vacand as gif he war naturally deid. And that all Archibiſchoppis, Biſchoppis, Superintendentis, poſſeſſouris or tytularis of Prelacies be callit and conuenit for this effect be<g ref="char:EOLhyphen"/>foir the generall Aſſemblie of the Kirk, and all in<g ref="char:EOLhyphen"/>feriour perſounis befoir the Archibiſchoppis, Biſ<g ref="char:EOLhyphen"/>choppis, <pb facs="tcp:150431:7"/>Superintendentis, or Commiſſionaris of the Dioceiſ or Prouinces within the quhilkis thay dwell.</p>
+         </div>
+         <div type="Act_of_Parliament">
+            <head>Anent the ȝouth and vtheris beȝond ſey ſuſpectit to haue declynit fra the trew Religioun: CAP. iiij.</head>
+            <p>
+               <hi>ITEM,</hi> Becaus ſindrie of the ȝouth in this Realme paſſing to the partis beȝond ſey becum<g ref="char:EOLhyphen"/>mis corruptit in Religioun, quhairof greit incon<g ref="char:EOLhyphen"/>uenient may followe. ¶ Thairfoir it is ſtatute and ordanit, that all perſounis the ſonnis of No<g ref="char:EOLhyphen"/>bil<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es, gentilmen, and otheris pretending
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he caus of thair departure to be for attening to far<g ref="char:EOLhyphen"/>ther knawledge in lettenis, ſall befoir thair ſaid departure ſute and obtene the Kingis Maieſties licence to that effect, contening ane prouiſioun, that thay ſall remaine conſtant in the profeſſioun of the trew Religioun publictly preichit, and be Law eſtabliſchit within this Realme, and do nor procure nathing to the preiudice thairof, or of his hienes and his Authoritie, vnder the pane of bar<g ref="char:EOLhyphen"/>ratrie. As alſwa the ſaidis perſounis within the ſpace of xx. dayis efter thair returning within this Realme, ſall pas to the Biſchop, Superin<g ref="char:EOLhyphen"/>tendent, or Commiſſionar of the Kirkis within the boundis quhair thay arryue, or happinnis to mak reſidence, and thair offer to mak &amp; giue the confeſſioun of thair faith according to the trew and Chriſtiane Religioun preichit, and be Law eſtabliſchit within this Realme, or than within fourtie day thairefter deuoyde and remufe thame <pb facs="tcp:150431:8"/>ſelfis, furth of this Realme, quhairin gif thay failȝe, that thay be admoniſchit and perſewit as the aduerſaris of the ſaid trew Religioun. And for ſic perſounis as ar alreddy furth of this Realme, and hes declynit fta the trew Religioun, that the ordour appointit in the Lawis alreddy maid be vſit and execute aganis thame accor<g ref="char:EOLhyphen"/>ding to the directioun and tennour thairof in all pointis.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprentit at Edin<g ref="char:EOLhyphen"/>burgh be Iohne Ros.</p>
+            <p>ANNO DO. 1580.</p>
+            <p>
+               <hi>Cum Pri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilegio Regale.</hi>
+            </p>
+            <pb facs="tcp:150431:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
